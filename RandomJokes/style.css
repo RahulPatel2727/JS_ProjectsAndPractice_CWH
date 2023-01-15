@@ -1,0 +1,32 @@
+*{
+    /* margin:0;
+    padding:0; */
+    text-align:center;
+}
+.jokes{
+    border:4px solid rgb(247, 62, 99);
+    border-radius: 20px;
+
+    border-top-color: rebeccapurple;
+    border-bottom-color: rgb(51, 153, 114);
+    border-left-color: rgb(31, 48, 121);
+    margin: 40px 0 0 0;
+    width : 50%;
+    height: 300px;
+    text-align: center;
+    display: inline-block;
+    background-color: bisque;
+}
+#joke{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bolder;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1{
+    color: rgb(5, 83, 57);
+    background-color: bisque;
+}
