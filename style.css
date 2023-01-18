@@ -1,3 +1,28 @@
-.div{
-    background-color: antiquewhite;
+.yellow{
+    background-color: yellow;
+    color :white;
+}
+.red{
+    background-color:red;
+    color:white;
+}
+.text-dark{
+    color:black;
+}
+
+.container{
+    text-align: center;
+    /* justify-content: center; */
+}
+.button{
+    font-size: 25px;
+    text-align:center;
+    height: 40px;
+    width: 200px
+}
+.color{
+    color: rgb(31, 194, 140);
+    background-color: blanchedalmond;
+    border: 5px solid red;
+    border-radius: 10px;
 }

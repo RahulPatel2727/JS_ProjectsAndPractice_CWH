@@ -2,7 +2,9 @@ import java.util.*;
 class test{
     public static void main(String[] args) {
 
-        int a = 200;
-        System.out.println(Integer.toString(a,4));
+        long a = 2l;
+        String b ="asgs";
+        
+        System.out.println(a+b);
     }
 }
