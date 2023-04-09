@@ -1,0 +1,15 @@
+{
+  "name": "my_first_package",
+  "version": "1.0.0",
+  "description": "this is description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rahul patel",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.1",
+    "validator": "^13.9.0"
+  }
+}
